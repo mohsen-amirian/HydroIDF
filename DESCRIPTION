@@ -1,0 +1,12 @@
+Package: IDFExplorer
+Type: Package
+Title: IDF Explorer package
+Version: 1.0.3
+Author: Mohsen Amirian
+Maintainer: Mohsen Amirian <mohsen.amirian@gmail.com>
+Description: IDFExplorer: A versatile R package for importing *.nc files, calculating multiple IDF models, and visualizing results graphically and numerically. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: data.table, ggplot2, terra, CoSMoS, sf, lubridate, ncdf4, curl, ncdf4.helpers
+RoxygenNote: 7.3.0
